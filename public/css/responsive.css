@@ -1,0 +1,79 @@
+@media screen and (max-width : 922px) {
+    .hero-tagline h1 {
+        line-height: 42px;
+        font-size: 32px;
+    }
+
+    .img-hero {
+      width: 65%;
+      height: auto;
+    }
+
+    .hero-tagline p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .button-lg-primary {
+        width: 180px;
+        height: 65px;
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 42px;
+    }
+
+    .sub-title {
+        font-size: 16px;
+    }
+
+    .card-layanan {
+        margin: 15px 0;
+        height: 365px;
+    }
+
+
+}
+
+@media screen and (max-width : 576px) {
+    .hero-tagline h1 {
+        line-height: 42px;
+        font-size: 32px;
+    }
+
+    .img-hero {
+      width: 65%;
+      height: auto;
+    }
+
+    .hero-tagline p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .button-lg-primary {
+        width: 150px;
+        height: 50px;
+        font-size: 17px;
+    }
+
+    h2 {
+        font-size: 42px;
+    }
+
+    .sub-title {
+        font-size: 16px;
+    }
+
+    .card-layanan {
+        margin: 15px 0;
+    }
+
+
+
+}
+
+@media screen and (max-width : 350px) {
+
+}
